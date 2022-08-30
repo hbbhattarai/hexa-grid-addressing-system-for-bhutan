@@ -1,2 +1,4 @@
 "# hexa-grid-addressing-system-for-bhutan" 
-"# hexa-grid-addressing-system-for-bhutan" 
+
+
+"A need for a functional street addressing system is becoming critical for the door to door service delivery in Bhutan, where most of human settlement areas lack of comprehensive addressing sys-tem. The advancement in geo-spatial technologies and location-based applications also underscore the need for a compressive addressing system. The what3word system of addressing the places has served useful in many parts of the world, but the system generated words are not commonly used by the Bhutanese community. Against this backdrop, this study explores how to develop and implement an effective and efficient addressing system for the country. The system encodes the geographic coordinates into a unique and accurate physical address of the places in Bhutan using the administrative names and numbers."
